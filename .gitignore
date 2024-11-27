@@ -240,3 +240,5 @@ conf_vars.mk
 
 #Ignore output mfem meshes
 *.mesh
+
+TAGS
